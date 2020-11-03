@@ -1,1 +1,1 @@
-# Folder do przechowywania plików z Wprowadzenie do języka Python 02.
+# Folder do przechowywania plików z Wprowadzenia do Pythona 02.
